@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️  
 > A clean, responsive, and dynamic portfolio to showcase my journey as an AI & ML Graduate.
 
-> 🔗 Live Demo: [https://sirigireddyreddaiahh.github.io](https://sirigireddyreddaiahh.github.io)
+> 🔗 Live Demo: [https://sirigireddyreddaiahh.github.io]
 
 ---
 
